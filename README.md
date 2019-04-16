@@ -1,2 +1,10 @@
-Python is very easy to learn when compared to other programing language.
-I just created this repo with a great desire to learn Python programming and has some basic examples of python.
+This repository contains basic python code which I used for training my colleagues. These examples are enough for a beginner to get familiar with python and also help them to code problems using python.
+
+Covers:
+ 1. String, List, Dictionaries,Tuples  
+ 2. Object oriented programming
+ 3. Modules
+ 4. Exception handling
+  And more...
+ 
+ 
